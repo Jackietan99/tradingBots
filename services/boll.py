@@ -1,5 +1,6 @@
 import ccxt
 import numpy as np
+import talib
 
 
 # boll 布林 线
